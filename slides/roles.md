@@ -2,8 +2,8 @@
 
 - **Resource Owner**: The User
 - **Resource Server**: The API
-- **Client Application**: Ofthen the same as the API server
-- **Authorization Server**: The Third-Party Application
+- **Client Application**: The Third-Party Application
+- **Authorization Server**: Ofthen the same as the API server
 
 ---
 
