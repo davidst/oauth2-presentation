@@ -1,6 +1,6 @@
 ### Implicit Grant
 
-![](/images/implicit.png)
+![](images/implicit.png)
 
 ---
 

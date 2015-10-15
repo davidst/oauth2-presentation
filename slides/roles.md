@@ -9,7 +9,7 @@
 
 ##  Roles Overview
 
-![](/images/roles-overview.png)
+![](images/roles-overview.png)
 
 ---
 
