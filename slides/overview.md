@@ -1,3 +1,3 @@
 ##  Overview
 
-![](/images/overview.png)
+![](images/overview.png)

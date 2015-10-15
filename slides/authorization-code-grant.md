@@ -1,6 +1,6 @@
 ### Authorization Code Grant
 
-![](/images/authorization-code.png)
+![](images/authorization-code.png)
 
 ---
 
