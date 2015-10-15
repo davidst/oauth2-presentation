@@ -17,9 +17,7 @@
     [
         "password-grant.md"
     ],
-    [
-        "client-credentials-grant.md"
-    ],
+    "client-credentials-grant.md",
     "refresh-token.md",
     [
         "net-implementation.md"
