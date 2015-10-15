@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "OAuth2",
+    "packageVersion": "0.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "davidst",
+    "githubRepository": "oauth2-presentation"
+  }
+}
