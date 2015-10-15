@@ -12,7 +12,7 @@ Whenever the client application requests access to resources stored on that same
 
 ##  Authorization Grants
 
-- **Authorization Code**: web-server apps
-- **Implicit**: mobile and browser-based apps
-- **Resource Owner Password Credentials**: username & password access
-- **Client Credentials**: application access
+* **Authorization Code**: web-server apps
+* **Implicit**: mobile and browser-based apps
+* **Resource Owner Password Credentials**: username & password access
+* **Client Credentials**: application access

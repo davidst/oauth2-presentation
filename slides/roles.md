@@ -1,9 +1,9 @@
 ##  Roles
 
-- **Resource Owner**: The User
-- **Resource Server**: The API
-- **Client Application**: The Third-Party Application
-- **Authorization Server**: Ofthen the same as the API server
+* **Resource Owner**: The User
+* **Resource Server**: The API
+* **Client Application**: The Third-Party Application
+* **Authorization Server**: Ofthen the same as the API server
 
 ---
 
