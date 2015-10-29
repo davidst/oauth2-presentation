@@ -1,4 +1,4 @@
-##  Password Grant
+## Password Grant
 
 This grant method works by giving the client application access to the resource owners credentials.
 
@@ -8,7 +8,7 @@ The client application could then use the user name and password to access resou
 
 ---
 
-##  Password Grant
+## Password Grant
 
 Using the resource owner password credentials requires a lot of trust in the client application.
 
@@ -16,6 +16,6 @@ You do not want to type your credentials into an application you suspect might a
 
 ---
 
-##  Password Grant
+## Password Grant
 
 The resource owner password credentials would normally be used by user agent client applications, or native client applications. 
