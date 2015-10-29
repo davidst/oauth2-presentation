@@ -63,7 +63,7 @@ CustomAuthorizationServerProvider
         // Called when a request to the Token endpoint arrives with a
         // "grant_type" of "client_credentials"
         public override async Task GrantClientCredentials(
-            OAuthGrantClientCredentialsContext context context)
+            OAuthGrantClientCredentialsContext context)
         {
         }
 
