@@ -1,4 +1,4 @@
-##  .net Implementation
+## .net Implementation
 
 Inside the Startup class
 
@@ -49,21 +49,21 @@ CustomAuthorizationServerProvider
         // Called when a request to the Token endpoint arrives with a
         // "grant_type" of "authorization_code"
         public override async Task GrantAuthorizationCode(
-            OAuthGrantAuthorizationCodeContext)
+            OAuthGrantAuthorizationCodeContext context)
         {
         }
 
         // Called when a request to the Token endpoint arrives with a
         // "grant_type" of "password"
         public override async Task GrantResourceOwnerCredentials(
-            OAuthGrantResourceOwnerCredentialsContext)
+            OAuthGrantResourceOwnerCredentialsContext context)
         {
         }
 
         // Called when a request to the Token endpoint arrives with a
         // "grant_type" of "client_credentials"
         public override async Task GrantClientCredentials(
-            OAuthGrantClientCredentialsContext context)
+            OAuthGrantClientCredentialsContext context context)
         {
         }
 
@@ -77,7 +77,7 @@ CustomAuthorizationServerProvider
         // Called when a request to the Token endpoint arrives with a
         // "grant_type" of any other value
         public override async Task GrantCustomExtension(
-            OAuthGrantCustomExtensionContext)
+            OAuthGrantCustomExtensionContext context)
         {
         }
     }

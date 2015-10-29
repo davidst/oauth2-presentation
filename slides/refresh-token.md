@@ -1,4 +1,4 @@
-##  Refresh Token
+## Refresh Token
 
 Although not mandated by the spec, access tokens usually are short-lived and come with  an expiration time which can last anywhere from a few minutes to several hours.
 

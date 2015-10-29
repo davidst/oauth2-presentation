@@ -1,4 +1,3 @@
-
 ## Introduction
 
 OAuth 2.0 is an open authorization protocol which enables applications to access each others data.
